@@ -59,7 +59,7 @@
                 "label": "Info",
                 "url": "/info",
                 "altText": "",
-                "iconPosition": "right"
+                "iconPosition": "left"
             }
         ],
         "contacts": {
