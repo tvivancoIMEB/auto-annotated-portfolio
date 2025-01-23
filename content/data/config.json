@@ -28,6 +28,14 @@
                 "label": "Facebook",
                 "url": "https://www.facebook.com/munielbosque",
                 "icon": "facebook"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.instagram.com/munielbosque/",
+                "icon": "instagram",
+                "elementId": ""
             }
         ],
         "styles": {
