@@ -42,6 +42,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: Retratos de Mujeres Bosquinas
   - type: DividerSection
     styles:
       self:
