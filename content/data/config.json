@@ -48,7 +48,7 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/EL-Bosque-logo-2023 (1).png",
-            "altText": "altText of the image",
+            "altText": "Muni El Bosque",
             "caption": "Caption of the image",
             "elementId": ""
         }
