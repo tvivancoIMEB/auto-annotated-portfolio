@@ -37,6 +37,7 @@ sections:
         borderStyle: solid
       title:
         textAlign: center
+        fontWeight: 400
       subtitle:
         textAlign: left
       text:
