@@ -83,7 +83,7 @@
             "type": "ContactBlock",
             "title": "Contacto",
             "phoneNumber": "22 482 3900",
-            "phoneAltText": "My phone number",
+            "phoneAltText": "Fono",
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "My email",
             "address": "312 Lovely Street, Brooklyn, NY, 123456",
