@@ -13,7 +13,9 @@ sections:
   - elementId: ''
     colors: colors-b
     backgroundSize: full
-    title: '"Mes de la Mujer 2025: 8M El Bosque avanza con fuerza de mujer"'
+    title: >-
+      Muestra Fotográfica "Mes de la Mujer 2025: 8M El Bosque avanza con fuerza
+      de mujer"
     subtitle: "Este marzo, El Bosque celebra la diversidad y la fortaleza de las mujeres que dan vida a nuestra comuna. En el marco del Mes de la Mujer, homenajearemos a 2000 vecinas a través de sus retratos, representando la riqueza y pluralidad de todas las mujeres bosquinas: trabajadoras, emprendedoras, estudiantes, cuidadoras, artistas y más.Estas imágenes reflejarán el esfuerzo, el compromiso y el coraje de quienes construyen día a día un El Bosque lleno de oportunidades e igualdad. ¡Juntas avanzamos con fuerza de mujer! \U0001F49C"
     styles:
       self:
