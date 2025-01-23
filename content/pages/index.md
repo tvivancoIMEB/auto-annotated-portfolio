@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: TextSection
-    colors: colors-f
+    colors: colors-a
     variant: variant-a
     title: The Section Title
     subtitle: The section subtitle
@@ -79,6 +79,5 @@ sections:
       <iframe
       src="https://drive.google.com/embeddedfolderview?id=1mKrvJIvqL_SOoJDJZoM8RlrDo0iywMnE#grid"
       style="width:100%; height:1600px; border:0;"></iframe>
-
 
 ---
