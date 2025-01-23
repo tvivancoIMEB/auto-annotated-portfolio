@@ -60,7 +60,7 @@
                 "url": "/info",
                 "altText": "",
                 "iconPosition": "left",
-                "showIcon": false
+                "showIcon": true
             }
         ],
         "contacts": {
