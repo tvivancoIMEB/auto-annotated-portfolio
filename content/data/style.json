@@ -13,7 +13,7 @@
     "fontBody": "fontPrimary",
     "h1": {
         "size": "4xl",
-        "weight": "medium",
+        "weight": "normal",
         "decoration": "none",
         "case": "uppercase",
         "letterSpacing": "normal"
