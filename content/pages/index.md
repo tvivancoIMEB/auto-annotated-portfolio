@@ -10,29 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - type: TextSection
-    colors: colors-b
-    variant: variant-a
-    title: Muestra Fotográfica
-    subtitle: The section subtitle
-    text: ''
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
   - elementId: ''
     colors: colors-b
     backgroundSize: full
