@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: TextSection
-    colors: colors-a
+    colors: colors-b
     variant: variant-a
     title: The Section Title
     subtitle: The section subtitle
@@ -75,9 +75,8 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >+
+    text: >
       <iframe
       src="https://drive.google.com/embeddedfolderview?id=1mKrvJIvqL_SOoJDJZoM8RlrDo0iywMnE#grid"
       style="width:100%; height:1600px; border:0;"></iframe>
-
 ---
