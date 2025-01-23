@@ -58,7 +58,9 @@
                 "type": "Link",
                 "label": "Info",
                 "url": "/info",
-                "altText": ""
+                "altText": "",
+                "iconPosition": "left",
+                "showIcon": true
             }
         ],
         "contacts": {
@@ -71,7 +73,7 @@
             "address": "Javiera Carrera 736",
             "addressAltText": "Dirección"
         },
-        "copyrightText": "Sobre [Netlify](https://www.netlify.com/)\n",
+        "copyrightText": "Creado Sobre [Netlify](https://www.netlify.com/)\n",
         "styles": {
             "self": {
                 "width": "narrow",
