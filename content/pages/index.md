@@ -13,7 +13,7 @@ sections:
   - type: TextSection
     colors: colors-b
     variant: variant-a
-    title: The Section Title
+    title: Muestra Fotográfica
     subtitle: The section subtitle
     text: ''
     elementId: ''
