@@ -87,7 +87,7 @@
             "email": "comunicaciones@municipalidadelbosque.cl",
             "emailAltText": "Correo",
             "address": "Javiera Carrera 736",
-            "addressAltText": "My address"
+            "addressAltText": "Dirección"
         },
         "copyrightText": "Sobre [Netlify](https://www.netlify.com/)\n",
         "styles": {
