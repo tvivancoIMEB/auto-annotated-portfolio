@@ -38,7 +38,6 @@ sections:
       title:
         textAlign: center
         fontWeight: 400
-        textDecoration: underline
       subtitle:
         textAlign: left
       text:
