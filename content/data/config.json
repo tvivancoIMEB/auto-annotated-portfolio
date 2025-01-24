@@ -10,7 +10,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "Información del proyecto",
                 "url": "/info"
             }
         ],
@@ -19,7 +19,7 @@
                 "type": "Social",
                 "altText": "Twitter",
                 "label": "Twitter",
-                "url": "https://twitter.com/netlify",
+                "url": "https://twitter.com/munielbosque",
                 "icon": "twitter"
             },
             {
@@ -35,6 +35,14 @@
                 "altText": "",
                 "url": "https://www.instagram.com/munielbosque/",
                 "icon": "instagram",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.youtube.com/tvelbosque",
+                "icon": "youtube",
                 "elementId": ""
             }
         ],
