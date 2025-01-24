@@ -36,6 +36,14 @@
                 "url": "https://www.instagram.com/munielbosque/",
                 "icon": "instagram",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.youtube.com/tvelbosque",
+                "icon": "youtube",
+                "elementId": ""
             }
         ],
         "styles": {
